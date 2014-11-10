@@ -68,7 +68,7 @@ a tu repositorio remoto en Github.
 
 ```
 git add .
-git commit -m 'Termine el portafolio'
+git commit -m 'Ya funciona el search del blog'
 ```
 Luego debemos enviar el código a tu repositorio en Github.
 
