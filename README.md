@@ -34,9 +34,14 @@ para ver cómo te debe quedar tu página.
 Asegura escribir todo tu código de HTML en [index.html](index.html) y todo tu CSS en [styles.css](css/styles.css). Lo que buscas es reproducir en código la imagen [portfolio-sketch](portfolio-sketch.png) lo más similar posible.
 
 ### Escribe 3 posts
-Ahora debes escribir al menos 3 posts. Cada post individual debe quedar en un archivo
-.md, adentro del folder *_posts*. El nombre debe estar en el formato "año-mes-dia-nombre-del-post.md". Estos los tienes que leer via Javascript/JQuery y mostrarlos
+Ahora debes escribir al menos 3 posts. Cada post individual debe quedar adentro del archivo
+"posts.json", adentro del folder *_posts*. Para cada posts agrega titulo, fecha, contenido y autor. Estos los tienes que leer via Javascript/JQuery y mostrarlos
 adentro del blog en orden de más reciente a más antiguo.
+
+### Comments
+Luego de tener el blog funcionando, debemos dejar a tus lectores comentar! Agrega
+un area hasta abajo de cada post donde un visitante puede comentar y aparezca en la
+pantalla.
 
 ### Avanzado
 Sólo hasta después de completar la página principal del blog, puedes continuar a los
