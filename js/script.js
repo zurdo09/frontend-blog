@@ -47,8 +47,8 @@ $(document).ready(function() {
 // para comentarios
 $(document).ready(function() {
     $('.boton1').click(function() {
-      var toAdd = $("input[name=message]").val();
-        $('.messages').append("<p>"+toAdd+"</p>");
+      var toAdd = $("input[name=message1]").val();
+        $('.messages1').append("<p>"+toAdd+"</p>");
     });
 });
 
